@@ -8,7 +8,7 @@ import {
     Apps,
     ContactMail
 } from '@material-ui/icons'
-import avatar from '../avatar.png'
+import avatar from '../Screenshot_20200825-001621_2.png'
 import MobileRightMenuSlider from '@material-ui/core/Drawer'
 import {Link} from "react-router-dom"
 

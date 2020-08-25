@@ -6,7 +6,7 @@ import {
   Box
 
 } from '@material-ui/core'
-import avatar from '../avatar.png'
+import avatar from '../Screenshot_20200825-001621_2.png'
 import Typed from 'react-typed'
 import {makeStyles} from '@material-ui/core/styles'
 
